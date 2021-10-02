@@ -1,0 +1,19 @@
+{
+    "name": "orcfoss/roblox-name-colors",
+    "description": "Computes Roblox name colors (in PHP!)",
+	"keywords": ["roblox"],
+    "type": "library",
+    "require": {
+        "php": "^8"
+    },
+    "license": "mit",
+	"support": {
+		"issues": "https://github.com/orcfoss/roblox-name-colors-php/issues",
+		"source": "https://github.com/orcfoss/roblox-name-colors-php"
+	},
+	"autoload": {
+		"files": [
+			"src/RobloxNameColors.php"
+		]
+	}
+}
